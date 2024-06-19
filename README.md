@@ -60,3 +60,7 @@ Round Robin (RR) is a preemptive scheduling algorithm where each process gets ex
 4. If a process does not complete within the time quantum, move it to the end of the queue and continue with the next process.
 5. Repeat the steps until all processes are completed.
 
+## GUI 
+[sample](https://drive.google.com/drive/folders/1M5UuNlWaSupCJPDv0nFzOUdYMh65hpOs?usp=drive_link)
+For better quality, download the images
+
