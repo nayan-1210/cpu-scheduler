@@ -19,12 +19,7 @@
 
 ## "input.txt" file
 Format: name,arrival_time,burst_time
-Sample
-A,8,3
-B,3,36
-C,24,14
-D,5,5
-E,3,2
+[Sample](https://github.com/nayan-1210/cpu-scheduler/blob/main/Backend/input.txt)
 
 ## Working of CPU Scheduler
 The project helps users to schedule processes, given their arrival times and burst times, using each of the following algorithms:
